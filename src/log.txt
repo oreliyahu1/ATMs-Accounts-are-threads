@@ -1,0 +1,18 @@
+2: New account id is 1 with password 0230 and initial balance 100
+Error 3: Your transaction failed - account id 777 does not exists
+1: New account id is 12345 with password 0000 and initial balance 100
+3: Account 1 balance is 100
+2: New account id is 2 with password 4801 and initial balance 123
+1: Account 12345 new balance is 50 after amount 50 $ was withdrew
+Error 3: Your transaction failed - account id 9 does not exists
+2: New account id is 3 with password 4447 and initial balance 104
+3: Transfer 50 from account 1 to account 2 new account balance is 50 new target account balance is 173
+1: Account 12345 new balance is 62 after amount 12 $ was deposited
+2: New account id is 4 with password 0800 and initial balance 370
+Error 3: Your transaction failed - account id 9 does not exists
+Error 1: Your transaction failed - account with the same id exists
+2: New account id is 5 with password 0440 and initial balance 470
+3: New account id is 9 with password 0000 and initial balance 1
+Error 2: Your transaction failed - account with the same id exists
+Error 3: Your transaction failed - account id 8 does not exists
+Error 3: Your transaction failed - account id 777 does not exists
